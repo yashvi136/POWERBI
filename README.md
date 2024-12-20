@@ -84,4 +84,5 @@
  Domain Knowledge: Leveraged domain knowledge in healthcare to interpret findings and provide context to the analysis.
 
 # TAKE AWAY
+ <img src = "C:\Users\ASUS\OneDrive\Pictures\Screenshots\HEALTHCARE DASHBOARD'.png"></img>
  
