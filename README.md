@@ -83,6 +83,6 @@
  Statistical Analysis: Applied statistical techniques to identify correlations and trends within the data.
  Domain Knowledge: Leveraged domain knowledge in healthcare to interpret findings and provide context to the analysis.
 
-# TAKE AWAY
+# DASHBOARD
  <img src = "https://github.com/yashvi136/POWERBI/blob/main/HEALTHCARE%20DASHBOARD'.png"></img>
  
