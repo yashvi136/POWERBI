@@ -1,7 +1,7 @@
 # HEALTHCARE STAT DASHBOARD
  The project aims to support healthcare professionals and administrators in making data-driven decisions to enhance the quality of care, improve operational efficiency, and optimize resource utilization.
 
-# OBBJECTIVE
+# OBJECTIVE
  The primary objective of the Healthcare Dashboard Project is to create an interactive and comprehensive tool for analyzing and visualizing critical healthcare data. This project aims to assist healthcare 
  professionals, administrators, and decision-makers by providing actionable insights into hospital operations, patient demographics, clinical metrics, and financial performance.
 
